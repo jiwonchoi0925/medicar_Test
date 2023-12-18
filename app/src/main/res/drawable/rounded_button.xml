@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape><!-- 버튼의 배경 색상 -->
+            <solid android:color="#BABABA"/>
+            <corners android:radius="12dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_padding">30dp</dimen>
+    <dimen name="all_padding_small">20dp</dimen>
+    <dimen name="all_padding_half">15dp</dimen>
+    <dimen name="all_margin">20dp</dimen>
+    <dimen name="all_margin_small">20dp</dimen>
+    <dimen name="all_margin_half">15dp</dimen>
+
+    <!--<dimen name="write_margin_bottom">30dp</dimen>
+    <dimen name="write_margin_bottom">20dp</dimen>-->
+</resources>
